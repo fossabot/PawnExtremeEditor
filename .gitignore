@@ -1,1 +1,7 @@
-#test
+packages/
+PawnEE/bin/
+PawnEE/obj/
+
+*.ico
+*.xml
+*.exe
